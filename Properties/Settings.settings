@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="nilnul._app_._TEST_.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">a1</Value>
+    </Setting>
+    <Setting Name="Setting1" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;asf&lt;/string&gt;
+  &lt;string&gt;asf&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="room" Type="nilnul.app._run._cfg._entry.typ_.custom_.Room" Scope="User">
+      <Value Profile="(Default)">1,Reception</Value>
+    </Setting>
+    <Setting Name="exmployee" Type="nilnul.app._run._cfg._entry.typ_.custom_.Employee" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="typeInSameLibCanBeKeyedInManually" Type="nilnul._app_._TEST_._run._cfg._entry.typ_.Custom" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

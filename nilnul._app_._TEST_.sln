@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._app_._TEST_", "nilnul._app_._TEST_.csproj", "{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._app_._LIB_", "..\_LIB_\nilnul._app_._LIB_.csproj", "{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dev2nuget|Any CPU = Dev2nuget|Any CPU
+		Nuget|Any CPU = Nuget|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Sym2nuget|Any CPU = Sym2nuget|Any CPU
+		Symbol|Any CPU = Symbol|Any CPU
+		Symbols4Debug|Any CPU = Symbols4Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Dev2nuget|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Dev2nuget|Any CPU.Build.0 = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Nuget|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Nuget|Any CPU.Build.0 = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Sym2nuget|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Sym2nuget|Any CPU.Build.0 = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Symbol|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Symbol|Any CPU.Build.0 = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Symbols4Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE339AD-3C17-4D3F-9A7B-FF6C2319BA51}.Symbols4Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Dev2nuget|Any CPU.ActiveCfg = Dev2nuget|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Dev2nuget|Any CPU.Build.0 = Dev2nuget|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Nuget|Any CPU.ActiveCfg = Nuget|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Nuget|Any CPU.Build.0 = Nuget|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Sym2nuget|Any CPU.ActiveCfg = Sym2nuget|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Sym2nuget|Any CPU.Build.0 = Sym2nuget|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Symbol|Any CPU.ActiveCfg = Symbol|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Symbol|Any CPU.Build.0 = Symbol|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Symbols4Debug|Any CPU.ActiveCfg = Symbols4Debug|Any CPU
+		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Symbols4Debug|Any CPU.Build.0 = Symbols4Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9E6B71-C384-4DAD-85C0-C3FA1FA6ECBB}
+	EndGlobalSection
+EndGlobal
