@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._app_._TEST_", "niln
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._app_._LIB_", "..\_LIB_\nilnul._app_._LIB_.csproj", "{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Then8deadlock", "..\test_(Git\winform_\Then8deadlock\Then8deadlock.csproj", "{0FCE8532-6241-4B58-9F67-1040D2B69867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,20 @@ Global
 		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Symbol|Any CPU.Build.0 = Symbol|Any CPU
 		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Symbols4Debug|Any CPU.ActiveCfg = Symbols4Debug|Any CPU
 		{FEE9AA40-D23D-4436-BF85-5811AA6FCE24}.Symbols4Debug|Any CPU.Build.0 = Symbols4Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Dev2nuget|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Dev2nuget|Any CPU.Build.0 = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Nuget|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Nuget|Any CPU.Build.0 = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Sym2nuget|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Sym2nuget|Any CPU.Build.0 = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Symbol|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Symbol|Any CPU.Build.0 = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Symbols4Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE8532-6241-4B58-9F67-1040D2B69867}.Symbols4Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

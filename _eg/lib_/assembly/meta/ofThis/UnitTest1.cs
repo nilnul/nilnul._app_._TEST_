@@ -2,7 +2,7 @@
 using System;
 using System.Diagnostics;
 
-namespace nilnul._app_._TEST_._eg.lib_.assembly.meta
+namespace nilnul._app_._TEST_._eg.lib_.assembly.meta.ofThis
 {
 	[TestClass]
 	public class UnitTest1
@@ -11,7 +11,7 @@ namespace nilnul._app_._TEST_._eg.lib_.assembly.meta
 		public void TestMethod1()
 		{
 
-			var latst = @"D:\170203\data\.deps\MSTest.TestFramework.3.4.0\lib\net462\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll";
+			var latst = _TEST_.data.latest.UnitTest1.Path();
 
 			var m = nilnul._app.lib_.assembly._MetaX.NameEtc(
 				//@"D:\170203\data\nilnul._dev_\_bak_(Git\_WIN_(1(Git\bin\Debug\Octokit.dll"
@@ -22,7 +22,6 @@ namespace nilnul._app_._TEST_._eg.lib_.assembly.meta
 				//@"D:\170203\data\(packages)\MSTest.TestFramework.3.0.0\lib\net462\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll"
 
 			);
-
 			Debug.WriteLine(m);
 		}
 	}
