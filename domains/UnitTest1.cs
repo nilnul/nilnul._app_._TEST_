@@ -1,4 +1,6 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+#if DEBUG
+
 using nilnul.app.t;
 using System;
 using System.Diagnostics;
@@ -33,3 +35,5 @@ namespace nilnul._app_._TEST_.domains
 		}
 	}
 }
+
+#endif
